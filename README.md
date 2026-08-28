@@ -26,14 +26,13 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemnkarimi2684&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Hemen Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=hemnkarimi2684&theme=dracula&hide_border=false" alt="Hemen Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemnkarimi2684&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Hemen Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hemnkarimi2684&show_icons=true&theme=dracula&count_private=true" alt="Hemen's GitHub Stats" />
 </p>
 
----
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hemnkarimi2684&color=cyan&style=flat-square&label=Profile+Views" alt="Views" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hemnkarimi2684&theme=dracula&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hemnkarimi2684&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
